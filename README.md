@@ -60,7 +60,7 @@ npm run db:push
 npm run dev
 ```
 
-Open **http://localhost:5000** — you'll be automatically logged in as a dev user. No Replit account needed.
+Open **http://localhost:5001** — you'll be automatically logged in as a dev user. No Replit account needed.
 
 > **Note:** Without a `PUBLIC_API_KEY`, the options chain will show simulated data. The Wheel Strategy backtester uses real Yahoo Finance historical prices regardless.
 
